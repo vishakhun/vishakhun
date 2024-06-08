@@ -19,9 +19,6 @@
 - Email: [vishakhun@gmail.com](mailto:vishakhun@gmail.com)
 - GitHub: [vishakhun](https://github.com/vishakhun)
 
-### 📄 Resume:
-For a more detailed look at my professional background, please view my [Linkedin](https://www.linkedin.com/in/vishakhun) or reach out to me.
-
 ---
 
 ### Skills:
@@ -34,7 +31,7 @@ For a more detailed look at my professional background, please view my [Linkedin
 - **Booking.com**: Fraud Analyst, Amsterdam, Netherlands (Dec 2019 - Dec 2020)
 - **Amazon**: Risk Investigations Advisor, Bangalore, India (Jan 2018 - Nov 2019)
 
-# Projects
+## Projects
 
 ### [GDPR Customer Request Prediction Model - Ride-hailing company](https://github.com/vishakhun/GDPR_Prediction)
 **Description:**
