@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning:
 - Advanced techniques in data analytics and machine learning.
-- The intricacies of GDPR, Privacy Law compliance and Payment Compliance (PSD2, PCI DSS).
+- The intricacies of GDPR, Privacy Law compliance and Payment Compliance (PSD2, PCI DSS), Trust and Safety.
 
 👯 I’m looking to collaborate on:
 - Open source projects related to data analytics and fraud prevention.
